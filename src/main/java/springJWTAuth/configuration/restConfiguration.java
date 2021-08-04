@@ -12,9 +12,5 @@ public class restConfiguration {
         return new ObjectMapper();
     }
 
-    @Bean
-    public JwtUtil createJwtUtil() {
-        return new JwtUtil();
-    }
 }
 
