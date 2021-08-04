@@ -1,0 +1,10 @@
+/Users/wenhaoliu/Desktop/git/springJWTAuth/src/main/java/springJWTAuth/security/SecurityConfigurer.java
+/Users/wenhaoliu/Desktop/git/springJWTAuth/src/main/java/springJWTAuth/controller/RestApiController.java
+/Users/wenhaoliu/Desktop/git/springJWTAuth/src/main/java/springJWTAuth/models/AuthenticationResponse.java
+/Users/wenhaoliu/Desktop/git/springJWTAuth/src/main/java/springJWTAuth/SpringBasicAuthApplication.java
+/Users/wenhaoliu/Desktop/git/springJWTAuth/src/main/java/springJWTAuth/configuration/restConfiguration.java
+/Users/wenhaoliu/Desktop/git/springJWTAuth/src/main/java/springJWTAuth/util/JwtUtil.java
+/Users/wenhaoliu/Desktop/git/springJWTAuth/src/main/java/springJWTAuth/models/AuthenticationRequest.java
+/Users/wenhaoliu/Desktop/git/springJWTAuth/src/main/java/springJWTAuth/security/AuthenticationEntryPoint.java
+/Users/wenhaoliu/Desktop/git/springJWTAuth/src/main/java/springJWTAuth/filters/JwtRequestFilter.java
+/Users/wenhaoliu/Desktop/git/springJWTAuth/src/main/java/springJWTAuth/services/MyUserDetailsService.java

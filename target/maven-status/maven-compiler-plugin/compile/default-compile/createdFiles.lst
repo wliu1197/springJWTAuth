@@ -1,0 +1,11 @@
+springJWTAuth/controller/RestApiController.class
+springJWTAuth/security/SecurityConfigurer.class
+springJWTAuth/models/AuthenticationRequest.class
+springJWTAuth/services/MyUserDetailsService.class
+springJWTAuth/filters/JwtRequestFilter$1.class
+springJWTAuth/filters/JwtRequestFilter.class
+springJWTAuth/configuration/restConfiguration.class
+springJWTAuth/util/JwtUtil.class
+springJWTAuth/models/AuthenticationResponse.class
+springJWTAuth/security/AuthenticationEntryPoint.class
+springJWTAuth/SpringBasicAuthApplication.class
